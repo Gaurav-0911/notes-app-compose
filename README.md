@@ -46,6 +46,20 @@ The **NotesViewModel** communicates with the repository and exposes note data to
 
 ---
 
+## 📸 Screenshots (Task 2)
+
+### ➕ Add Note
+![Add Note](screenshots_task2/add_note.jpg)
+
+### ✏️ Update Note
+![Update Note](screenshots_task2/update_note.jpg)
+
+### 🗑 Delete Note
+![Delete Note](screenshots_task2/delete_note.jpg)
+
+### 🔄 CRUD Operations Overview
+![CRUD](screenshots_task2/crud.jpg)
+
 ## How to Run the App
 1. Open the project in Android Studio.
 2. Allow Gradle sync to complete.
