@@ -1,16 +1,16 @@
 ## 📸 Screenshots (Task 2)
 
 ### ➕ Add Note
-![Add Note](screenshots_task2/add_note.jpg)
+![Add Note](add_note.jpg)
 
 ### ✏️ Update Note
-![Update Note](screenshots_task2/update_note.jpg)
+![Update Note](update_note.jpg)
 
 ### 🗑 Delete Note
-![Delete Note](screenshots_task2/delete_note.jpg)
+![Delete Note](delete_note.jpg)
 
 ### 🔄 CRUD Operations Overview
-![CRUD](screenshots_task2/crud.jpg)
+![CRUD](crud.jpg)
 
 
 
